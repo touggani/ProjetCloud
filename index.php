@@ -30,7 +30,7 @@ body, html {
 
 <!-- Navbar (sit on top) -->
 <div class="site-top">
-  <a href="#home"><img id="logo" src="cyberstation.png"></a>
+  <a href="#home"><img id="logo" src="image/cyberstation.png"></a>
   <div class="site-bar site-white site-card" id="myNavbar">
     
 
